@@ -1,0 +1,12 @@
+coloredlogs
+httpx
+pendulum
+playwright
+getuseragent
+requests
+random-username
+tqdm
+qrcode
+async-timeout
+fnv-c
+urllib3
